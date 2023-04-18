@@ -1,0 +1,3 @@
+C:/Users/iamsi/CLionProjects/ToDo/cmake-build-debug/CMakeFiles/ToDo.dir
+C:/Users/iamsi/CLionProjects/ToDo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/iamsi/CLionProjects/ToDo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
